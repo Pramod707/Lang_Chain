@@ -3,10 +3,8 @@
 A structured repository documenting my hands-on journey of learning **LangChain**, **LLM Engineering**, **Tool Calling**, **RAG**, and **AI Agent Development** using Python.
 
 > Goal: Master LangChain from fundamentals to production-ready AI applications.
-
 ---
 ## 🏗️ LangChain Architecture
-
 ```mermaid
 flowchart LR
 
@@ -28,7 +26,6 @@ Notebook:
 ```
 langchain/langchain_intro.ipynb
 ```
-
 ---
 
 ### ✅ 2. Model Integration
